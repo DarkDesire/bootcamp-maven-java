@@ -1,4 +1,6 @@
 # bootcamp-maven-java
+Stub for creating simple Java 17 + Maven project
+
 ## VSCode
 ### Prerequisits:
 1. Install chocolatey. 
