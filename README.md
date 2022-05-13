@@ -8,6 +8,6 @@
 To start of with your java project, you can use maven-archetype-quickstart
 
 ### Creating a new project
-1. `Ctrl+P` Java: Craete Java Project
+1. `Ctrl+P` Java: Create Java Project
 2. `Maven (create from archetype)`
 3. Type: `maven-archetype-quickstart`
